@@ -1,0 +1,1314 @@
+Scenario 0{03}{08}
+Prologue{06}{07}
+The continent of El Sallia is a
+land that has been plagued with
+frequent wars.{06}{07}
+A young man, {02}, has been
+traveling the countryside with
+Hein, an apprentice magician
+whom he met on his journeys.{06}{07}
+After entering the lands near
+Hein's hometown, the travelers
+decided to stay at the inn.{06}{07}
+Village life was quiet and peaceful.
+Amidst the friendly villagers, the
+travelers soon forgot about the war
+that had begun to take place.{06}{07}
+Days later, as {02} was
+beginning to enjoy life in the
+village, Hein burst into the
+inn with a pale face.{06}{07}
+The Imperial Knights of the
+Rayguard Empire had invaded
+the village in search of a girl
+named Liana.{06}{07}
+Why would they attack such
+a peaceful village?{06}{07}
+{02} leaves the inn with
+Hein to attempt to rescue
+Liana.{06}{07}
+* Winning Condition{08}
+ - Defeat of Baldo{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Baldo reaches bottom of map{06}{07}{END}
+
+Scenario 0{03}{08}
+Setting Off{06}{07}
+{02} managed to rescue
+Liana from the Imperial
+Knights.{06}{07}
+However, with the Imperial Army
+of the Rayguard Empire after
+Liana, Lord Loren decided that
+it was impossible to continue{06}{07}
+defending her in such a remote
+region.{06}{07}
+He decided that Estool, a nearby
+shrine in which Liana worked as
+a shrine maiden, was the best
+place for her to stay.{06}{07}
+While {02} and Loren were
+escorting Liana to Estool, they
+came upon the Imperial Army
+who was waiting for them at{06}{07}
+the cross roads... {06}{07}
+* Winning Conditions{08}
+ -Liana reaches top of map{08}
+ -Defeat of all enemies{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Death of Liana{06}{07}
+{END}
+
+Scenario 0{03}{08}
+Shrine of Light{06}{07}
+After defeating the Blue
+Dragoon, {02} and his
+companions continued to head
+towards the great shrine of{06}{07}
+light at Estool, famous for its
+great number of Shinto
+warrior priests.{06}{07}
+They spent the night there, and
+the following morning, the
+shrine priest requested custody
+of Liana.{06}{07}
+Everyone thought their journey
+was at its end.{06}{07}
+However, while their thoughts
+were elsewhere, Blazing Dragon
+Army Vice-Commander Zorum and
+Black Dragon Dark Priest Morgan{06}{07}
+were planning a massive attack
+on the shrine... {06}{07}
+* Winning Condition{08}
+ -Defeat of all enemies{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Defeat of Shrine Priest{08}
+ -Death of Liana{06}{07}
+{END}
+  
+Scenario 0{03}{08}
+Battle at Kalxath Castle{06}{07}
+Severely damaged in the attack,
+the Shrine of Light is no
+longer a safe place for Liana.{06}{07}
+Cherie, a young lady from
+Kalxath, offered the protection
+of Kalxath, the leading country
+of a recently-formed
+anti-imperial group.{06}{07}
+Accepting the invitation,
+{02}'s company headed to
+Kalxath, only to find it under
+the attack of the Blazing
+Dragon Army.{06}{07}
+How long will it endure versus
+the elite forces led by General
+Vargas?{06}{07}
+A fierce battle ensues... {06}{07}
+* Winning Condition{08}
+ -Death of all enemies{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Defeat of NPCs{06}{07}
+{END}
+
+Scenario 0{03}{08}
+In Flames{06}{07}
+{02} departs from Kalxath
+to visit the powerful magician,
+Jessica, who knows where the
+Dark Rod is.{06}{07}
+She is rumored to have lived
+for a several hundred years
+inside the forested region
+beyond the Rall River
+researching magic.{06}{07}
+But, as {02} approaches
+the river, a group of pirates
+blocks his way.{06}{07}
+At same time, Court magician,
+Eggbert, leader of Black Dragon
+Dark Priests, has secretly set
+a trap aimed at stealing the
+Dark Rod.{06}{07}
+* Winning Condition{08}
+ -Defeat of Kamilla{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Death of Jessica{06}{07}
+{END}
+
+Scenario 0{03}{08}
+Holy Ground Reitel{06}{07}
+The Shrine was located in the
+sacred palace of Reitel, hidden
+from the eyes of people atop
+the highest mountain within the
+deep forest.{06}{07}
+However, nobody has arrived
+yet and Eggbert is nowhere to
+be seen.{06}{07}
+The ancient Guardians who
+protect the Dark Rod lurk
+inside the shrine awaiting any
+invaders. {06}{07}
+* Winning Conditions{08}
+ -Defeat of all enemies{08}
+ -Dark Rod is taken{06}{07}
+* Losing Condition{08}
+ -Death of {02}{06}{07}
+{END}
+
+Scenario 0{03}{08}
+Girl of the Demon Tribe{06}{07}
+Eggbert took the Dark Rod just
+before {02} had grabbed
+it and Jessica left to help
+form anti-imperial alliances.{06}{07}
+Now that Empire possesses the
+Dark Rod, they may start a
+full-scale invasion.{06}{07}
+The legendary holy sword must
+be found to have any hope
+of preventing it.{06}{07}
+Along the way, {02}'s
+company came upon a small
+village being raided by a group
+of monsters.{06}{07}
+To save the village from the
+monsters, {02} and his
+companions intervened.{06}{07}
+* Winning Condition{08}
+ -Defeat of all enemies{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Death of all villagers{06}{07}
+{END}
+  
+Scenario 0{03}{08}
+The Sky Bridge{06}{07}
+Shortly after temporarily
+working with Leon of Rayguard's
+Imperial Blue Dragon Knights,
+{02} decided to fight
+against the Empire to the end.{06}{07}
+Hurrying in hopes to get
+Langrisser as soon as possible,
+{02} fell into an ambush
+by the Imperial Army at a
+suspension bridge over a
+deep gorge.{06}{07}
+Kr{38}mer, under orders from
+Imelda, the female general of
+Rayguard's Imperial Ice Dragon
+Army, is now trying to destroy
+the suspension bridge in order
+to stop their progress.{06}{07}
+If {02} doesn't make it
+across the bridge, precious
+time will be wasted.{06}{07}
+{02} decides to force his way
+and break through the enemy
+lines.{06}{07}
+* Winning Condition{08}
+ -Defeat of Kr{38}mer within
+  18 turns{06}{07}{08}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Turn Over{06}{07}
+{END}
+
+Scenario 0{03}{08}
+The Old Swordsman's Fort{06}{07}
+{02}'s party hurried
+ahead after defeating Kr{38}mer
+of the Ice Dragon Army and
+crossing the bridge.{06}{07}
+However, the fort up ahead was
+under attack by the Ice Dragon
+Army's General Imelda.{06}{07}
+It seemed Imelda wanted to use
+the fort to get in {02}'s
+party's way.{06}{07}
+However thanks to the old
+swordsman Aaron, the fort
+hasn't been taken yet.{06}{07}
+The villagers though,
+remain in danger.{06}{07}
+To save the villagers and
+Aaron, {02} and company
+rush into the fray to engage
+the Ice Dragon Army.{06}{07}
+* Winning Condition{08}
+ -Imelda's defeat{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Death of all Villagers{06}{07}
+{END}
+
+Scenario {03}
+Brave General Vargas{06}{07}
+At last {02}'s party nears
+Baldea Castle, the resting
+place of Langrisser.{06}{07}
+However, a fortress was formed
+during {02}'s battle with
+Imelda to impede their advance.{06}{07}
+This is the decisive battle
+between {02}'s party and
+the Blazing Dragon's General,
+Vargas. {06}{07}
+* Winning condition{08}
+ -Defeat of Vargas{06}{07}
+* Losing condition{08}
+ -Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Holy Sword, Langrisser{06}{07}
+Hundreds of years ago, it was
+said the Descendants of Light
+once ruled the kingdom of
+Baldea.{06}{07}
+The legendary ancient sword
+now rests quietly in the
+castle's center.{06}{07}
+Inside the revered Baldea
+castle, {02}'s party
+seeks the legendary sword,
+Langrisser.{06}{07}
+But the Blue Dragon Knights
+have already arrived with the
+same intention.{06}{07}
+Now, once again, a struggle
+for the holy sword Langrisser
+has begun!{06}{07}
+* Winning Conditions{08}
+ -Defeat of all enemies{08}
+ -Obtain Langrisser{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -Leon reaches Langrisser first{06}{07}
+{END}
+
+Scenario {03}
+The Iron Gates of the Barracks{06}{07}
+At last {02}'s party has
+obtained Langrisser and now
+draws near the Rayguard
+imperial capital.{06}{07}
+Jessica has already organized
+the allied armies to hold back
+any enemy reinforcements.{06}{07}
+Now there's no turning back.
+If {02} can penetrate this
+gate he can easily advance to
+the throne.{06}{07}
+However, the gate is defended
+by Leon and the Blue Dragon
+Knights... {06}{07}
+* Winning Condition{08}
+ -Leon's defeat{06}{07}
+*Losing condition{08}
+ -Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Emperor Bernhardt{06}{07}
+After again defeating General
+Leon and the Blue Dragon
+Knights, {02} and company
+have begun to invade the
+Rayguard capital and make their
+way into the Royal palace.{06}{07}
+However, they are unknowingly
+heading straight into an ambush
+that could very well decide the
+fate of the entire world.{06}{07}
+Will the divine power of
+Langrisser be enough to stop
+the Evil Emperor Bernhardt and
+his followers? And what about
+the power of Alhazard? Will
+{02}'s strength alone be
+enough to win this fight?{06}{07}
+Only time will tell as
+{02} and company rush
+into the Royal Palace and find
+themselves surrounded by the
+enemy... {06}{07}
+This could be the final
+showdown between the Decendants
+of Light and the forces of
+evil.{06}{07}
+* Winning Conditions{08}
+ -Defeat of Bernhardt{08}
+ -Defeat of B{3A}ser{06}{07}
+* Losing Condition{08}
+ -Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+The Harbor Battle{06}{07}
+After {02} and his companions
+defeated B{3A}ser, they followed
+Bernhardt, who had escaped from
+the castle. This led them
+towards the continent of
+Velzeria.{06}{07}
+Having decided that water
+travel would be the most
+efficent route to Velzeria, the
+party headed to a harbor.{06}{07}
+However, Lady General Imelda is
+also preparing to leave by boat
+from the same harbor!
+Quite possibly to Velzeria... {06}{07}
+Since Imelda hasn't left yet
+and time is of the essence,
+{02} and company have
+decided to launch an attack in
+order to steal the ship.{06}{07}
+* Winning Condition{08}
+  -Defeat of Imelda within 23 turns. {06}{07}
+Losing Conditions{08}
+  -Death of {02}{08}
+  -Failure to win within 23 turns. {06}{07}
+{END}
+
+Scenario {03}
+Marionette{06}{07}
+The forbidden continent of Velzeria.... {06}{07}
+Some hundreds of years ago, the
+Descendents of Light made their
+way into B{3A}ser's lair and
+bested him in this land.{06}{07}
+It's been said that the god of
+chaos is sealed somewhere on
+this accursed land and that one
+can catch a glimpse of him on
+the horizon.{06}{07}
+When the company landed in an
+inlet, they found a large swarm
+of monsters, led by a girl,
+waiting for them. {06}{07}
+* Winning Condition{08}
+  -Defeat all enemies within 18 turns.{06}{07}
+* Losing Condition{08}
+  -Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Revival of the Demon Sword{06}{07}
+Deep within the bowels of Velzeria, an ancient ritual was being prepared. 
+{06}{07}
+Mystical energy reverberated
+throughout the chamber -- as an
+ancient prayer was recited in a
+booming voice by a magician.{06}{07}
+As the magician recited the
+prayer, the dark sword in front
+of him shimmered with intense
+energy. The environs shook
+wildly.{06}{07}
+It seems, now, that the seal upon the dark sword has begun to unravel... 
+{06}{07}
+* Winning Condition{08}
+  -Defeat all enemies.{06}{07}
+* Losing Condition{08}
+  -Death of {02}. {06}{07}
+{END}
+
+Scenario {03}
+The Key to the Seal{06}{07}
+Now that Eggbert of the Imperial Black
+Dragon Dark Priests has dissolved
+the seal upon the sword, darkness is
+beginning to spew forth into the land.{06}{07}
+Moreover,  Alhazard is currently
+in the posession of Emperor Bernhardt.
+Is there no one left to thwart the plans
+of the Empire?{06}{07}
+Since the time Liana lifted the enchantment
+upon L{37}na, it was discovered that Langrisser
+is not yet complete.{06}{07}
+The holy sword Langrisser, as it stands, has not
+the power to challenge the recently reawakened
+Alhazard.{06}{07}
+{02} and company hurry to Elraad,
+where it is said the Holy Rod, which
+can awaken the power of Langrisser,
+is kept.{06}{07}
+* Winning Conditions{08}
+ -Defeat all enemies.{06}{07}
+* Losing Conditions{08}
+ -Death of {02}{08}
+ -The rod is captured by the enemy
+   and taken south, off the map.{06}{07}
+{END}
+
+Scenario {03}
+Revenge {06}{07}
+Once the key to awakening the
+sleeping Langrisser was obtained,
+the party wasted no time preparing
+for the ceremony. {06}{07}
+Since they liberated the sealed power
+within the sword, they finally have enough
+power to challenge the demonic sword
+Alhazard. {06}{07}
+However, en route to Velzeria, they
+find a lone girl in wait for them. {06}{07}
+Sonya is burning with rage after
+the defeat of her master, B{3A}ser, the
+confiscation of the Alhazard by
+the emperor, and the loss of her brother. {06}{07}
+As she lies in wait along with her monsters,
+she decides that this is the perfect time
+to exact revenge... {06}{07}
+* Winning Conditions{08}
+  - Defeat of Sonya{08}
+* Losing Conditions{08}
+  - Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+Strongest Knight in the Land{06}{07}
+The castle responsible for the curse upon
+the land, Velzeria Castle... {06}{07}
+The strongest force in the castle is Bernhardt's
+army, aided by the Alhazard. {06}{07}
+However, in front of the castle stands the
+knight Leon and the magician Eggbert.
+Furthermore, near Eggbert is the figure of
+Jessica. {06}{07}
+As neither side is willing to back down, a
+fierce battle will blaze forth from the battlefield.{06}{07}
+* Winning Conditions{08}
+ - Defeat all enemies.{08}
+* Losing Conditions{08}
+ - Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+The Evil Blade{06}{07}
+Once the party was successful in besting
+Leon in mortal combat, they penetrate the
+castle defenses.  Upon entering, they feel an uneasiness
+in the air around them, which envelops the pathway
+leading to the Emperor. {06}{07}
+Since the form of their original master,
+B{3A}ser, is no longer within the castle walls,
+the monsters obey Bernhardt, their new master,
+who wields the Alhazard.{06}{07}
+The everlasting conflict between the manipulator
+of evil, the Alhazard, and the governor of light,
+the Langrisser, has passed down through generations,
+and now, once again, their coming together will
+spark another cataclysmic struggle.{06}{07}
+* Winning Conditions{08}
+  -Defeat of Bernhardt{08}
+* Losing Conditions{08}
+  -Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+Legend Comes to Pass{06}{07}
+The terrible war which was brought
+upon by Emperor Bernhardt came to
+a violent close. {06}{07}
+Just when it seemed as if everything
+was over with, a surge of darkness enveloped
+the castle. {06}{07}
+In a shrine in the basement of Velzeria
+castle, a figure of a human was reciting
+a prayer to call forth a terrible being
+of immense power. {06}{07}
+* Winning Conditions{08}
+  -Defeat all enemies{08}
+* Losing Conditions{08}
+  -Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+Lunatic{06}{07}
+Sonya, a being with an intense hatred for
+humanity, and a product of both a demon
+and a human.  With her own power,
+she's decided to call forth Chaos. {06}{07}
+Now that Chaos has begun to become
+visible, and the world's order has been
+put in jeopardy, you decide to stop focusing
+on the Empire for a while. {06}{07}
+Is there no way to stop Sonya?
+In order to stop the resurrection of
+Chaos, you break from your persuit of
+the Empire and chase after Sonya instead. {06}{07}
+Thusly, your persuit leads you to the
+shrine in the cellar of the forbidden castle,
+Velzeria. {06}{07}
+* Winning Conditions{08}
+  -Defeat of Sonya{08}
+* Losing Conditions{08}
+  -Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+Strongest Knight in the land{06}{07}
+The castle responsible for the curse upon
+the land, Velzeria Castle... {06}{07}
+The strongest force in the castle is Bernhardt's
+army, aided by the Alhazard. {06}{07}
+However, in front of the castle stands the
+knight Leon and the magician Eggbert.
+Furthermore, near Eggbert is the figure of
+Jessica. {06}{07}
+As neither side is willing to back down, a
+fierce battle will blaze forth from the battlefield.{06}{07}
+* Winning Conditions{08}
+ - Defeat all enemies.{08}
+* Losing Conditions{08}
+ - Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+The End of Legend{06}{07}
+Once the party was successful in besting
+Leon in mortal combat, they penetrate the
+castle defenses.  Upon entering, they feel an uneasiness
+in the air around them, which envelops the pathway
+leading straight to the Emperor. {06}{07}
+Since the form of their original master,
+B{3A}ser, is no longer within the castle walls,
+the monsters obey Bernhardt, their new master,
+who wields the Alhazard.{06}{07}
+The everlasting conflict between the manipulator
+of evil, the Alhazard, and the governor of light,
+the Langrisser, has passed down through generations,
+and now, once again, their coming together will
+spark another cataclysmic struggle.{06}{07}
+* Winning Conditions{08}
+  -Defeat of Bernhardt{08}
+* Losing Conditions{08}
+  -Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+The Harbor Battle{06}{07}
+Bernhardt, the Emperor of the Rayguard
+Empire, has been defeated. {06}{07}
+However, the man who's manipulated the
+Empire from the shadows, B{3A}ser, has
+fled. {06}{07}
+Every some hundred years or so, B{3A}ser
+calls forth the sealed god, Chaos, to
+plunge the world into darkness. {06}{07}
+In order to hastily persue the fleeing Bosel,
+{02} and his brigade head toward a harbor. {06}{07}
+However, monsters have besieged the
+harbor. If one wishes to overtake the harbor,
+one cannot be lax in preparation. {06}{07}
+*Winning Conditions{08}
+ - Defeat Vampire Lord Esto and Osto. {06}{07}
+*Losing Conditions{08}
+ - Death of {02}.{06}{07}
+{END}
+
+Scenario {03}
+Imelda's Ambush{06}{07}
+Once the monsters had been eliminated,
+{02} and his party set their sights for
+Velzeria.{06}{07}
+Since the party is travelling by sea,
+they should arrive in Velzeria in no time.
+However, another ship has intercepted
+your party, and they are attempting to board.{06}{07}
+Led by General Imelda, the Ice Dragon Corps
+have arrived with the intention of delaying
+{02} and his comrades.{06}{07}
+* Winning Conditions{08}
+ - Defeat of Imelda{08}
+* Losing Conditions{08}
+ - Defeat of {02} {06}{07}
+{END}
+
+Scenario {03}
+Marionette{06}{07}
+The forbidden continent of Velzeria....
+Some hundreds of years ago, the Descendents
+of Light made their way into B{3A}ser's lair and
+bested him. {06}{07}
+It's been said that the god of chaos is
+sealed somewhere on this accursed land,
+and one can catch a glimpse of him
+on the horizon. {06}{07}
+When the company landed in an
+inlet, they found a large swarm of
+monsters led by the Dark Princess
+waiting for them. {06}{07}
+* Winning Conditions{08}
+  - Defeat all enemies within 16 turns.{06}{07}
+* Losing Conditions{08}
+  - Death of {02}{08}
+  - Failure to win within 16 turns. {06}{07}
+{END}
+
+Scenario {03}
+Frozen Flame {06}{07}
+Since the operation to seize a boat was
+unsuccessful, the party decides to follow
+a path along the river, instead.
+It's quite possible that, if deft enough,
+the party could take control of a
+vessel along the way. {06}{07}
+If the party doesn't make haste, the
+ceremony to reawaken the Alhazard
+will begin.
+Once that time is past, a troubling
+shadow will be cast upon the world. {06}{07}
+At that time, a new kind of despair
+will manifest itself, and, right before
+the party's very eyes, a village goes up in
+flames. {06}{07}
+* Winning Conditions{08}
+  - Defeat of Imelda {06}{07}
+* Losing Conditions{08}
+  - Death of {02}{08}
+  - Deaths of all the villagers. {06}{07}
+{END}
+
+Scenario {03}
+Dead End {06}{07}
+While the party was able to borrow a small
+ship to carry them swiftly to Velzeria,
+maritime troops attack the band while
+at sea. {06}{07}
+However, the fact that these troops have
+manifested themselves indicates that the
+seal has begun to dissolve.
+There just might be some time left, though. {06}{07}
+{02} and his band of voyageurs decide
+to waylay the enemy forces. {06}{07}
+* Winning Conditions{08}
+ - Defeat all enemies{08}
+* Losing Conditions{08}
+ - Death of {02} {06}{07}
+{END}
+
+Scenario {03}
+Revival of the Demon Sword {06}{07}
+In order to halt the revival of the demon
+sword Alhazard, {02} and company
+make their way to the temple of darkness. {06}{07}
+Up by the altar stand Liana and L{37}na. {06}{07}
+Also, in front of the altar, the caped B{3A}ser
+is muttering an incantation. {06}{07}
+Now it seems, according to legend, that
+the seal placed on the Alhazard is beginning
+to unravel. {06}{07}
+* Winning Conditions{08}
+ - Defeat all enemies{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Death of Jessica. {06}{07}
+{END}
+
+Scenario {03}
+The Key to the Seal {06}{07}
+Finally, the seal on the Alhazard has been
+dissolved. {06}{07}
+However, the real Bernhardt, who was
+thought to be dead, has returned and
+confiscated the Alhazard from B{3A}ser. {06}{07}
+Since the Empire now has the reawakened
+Alhazard, it has set forth and begun to conquer
+the continent little by little. {06}{07}
+Is there no way to oppose the new dark
+forces which threaten the land? {06}{07}
+Right now, the Langrisser, at its present
+state, has not the power to challenge the
+new threat. {06}{07}
+However, L{37}na and Liana, after the
+technique which B{3A}ser used to hypnotize
+them wore off, both know a way to
+augment the power of the Langrisser to
+it's fullest potential. {06}{07}
+The key to the liberation of Langrisser's
+true power, the Holy Rod, is located within
+the ruins of Elraad. {06}{07}
+* Winning Conditions{08}
+  - Defeat all enemies{06}{07}
+* Losing Conditions{08}
+  - Death of {02}{08}
+  - The rod is stolen by the enemy
+  and taken off the map. {06}{07}
+{END}
+
+Scenario {03}
+Revenge{06}{07}
+Once the key to the awakening of the
+sleeping Langrisser was obtained,
+the party wasted no time preparing
+for the ceremony. {06}{07}
+Since they liberated the sealed power
+within the sword, they finally have enough
+power to challenge the demonic sword
+Alhazard. {06}{07}
+However, en route to Velzeria, they
+find a lone girl in wait for them. {06}{07}
+Sonya is burning with rage after
+the defeat of her master, B{3A}ser, the
+confiscation of the Alhazard by
+the Emperor, and the loss of her brother Rohga. {06}{07}
+As she lies in wait along with her monsters,
+she decides that this is the perfect time
+to exact revenge... {06}{07}
+* Winning Conditions{08}
+  - Defeat of Sonya{08}
+* Losing Conditions{08}
+  - Death of {02} {06}{07}
+{END}
+
+{END}
+
+{END}
+
+{END}
+
+{END}
+
+Scenario 0{03}{08}
+Go Ahead{06}{07}
+After being invited by Captain
+Leon of the Blue Dragon Knights,
+{02}, Hein, and Rohga will join
+the empire.{06}{07}
+They believe unification of
+the continent by one powerful
+country will soon bring an end
+to the wars.{06}{07}
+{02} is cooperating with the
+empire to achieve this goal.
+However, at the same time
+old friends have become new
+enemies.{06}{07}
+In search of Baldea Kingdom
+to find the Holy Sword,
+Langrisser, the party is confronted
+by their former friend, Lester,
+on the bridge across a deep ravine.{06}{07}
+* Winning Conditions{08}
+ - Defeat Lester in under 19 turns{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Turn Over{06}{07}
+{END}
+
+Scenario 0{03}{08}
+"WANTED"{06}{07}
+Langrisser has traditionally
+given infinite power to it's
+wielder.
+Now it's name is sung only
+in legend.{06}{07}
+By obtaining the sword, the
+empire will firmly establish
+it's power.{06}{07}
+However the Decendants of Light
+have mobilized to protect
+Langrisser and thwart the
+empire's plans.{06}{07}
+As they marched tword the village,
+the princess of Kalxath, Cherie,
+was waiting to interfere with the
+empire's plans.{06}{07}
+* Winning Conditions{08}
+ - Defeat of Cherie{08}
+* Losing Conditions{08}
+ - Death of {02}
+{END}
+
+Scenario {03}
+The Old Swordsman's Stand{06}{07}
+Thanks to a report from Leyad,
+leader of the Baldea search
+party, the location of Baldea
+has been discovered.{06}{07}
+However, a great river is
+slowing the party's progress
+in rushing to reach Baldea.{06}{07}
+On the opposite shoreline,
+an old swordsman has come,
+in command of soldiers, to
+prevent your party's advance.{06}{07}
+* Winning Condition{08}
+ - Defeat of all enemies{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+The Evil Blade's Mystery{06}{07}
+Several hundred years ago, in the days of old, the decendants of light governed Baldea.{06}{07}
+Inside the castle on an altar resides the legendary holy blade, "Langrisser".{06}{07}
+However the decendants of light have appeared to battle the empire to the end.{06}{07}
+Once again, the holy blade Langrisser's fate rests on the open battlefield.{06}{07}
+* Winning Conditions{08}
+ - Obtain Langrisser{08}
+ - Annihilation of all enemies{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Langrisser is taken{06}{07}
+{END}
+
+  
+Scenario {03}
+Sad Pursuit{06}{07}
+The holy sword's protectors, the decendants of light, are escaping. The battle for Langrisser is nearly at an end with the empire's victory.{06}{07}
+Having obtained the sword, they have set a new course to return to Rayguard Castle with Emperor Bernhardt.{06}{07}
+However, due to the antagonistic nature of dark blade Alhazad and Langrisser, Jessica pursues them in fear of what may happen.{06}{07}
+Now, total war has begun between the empire and the decendants of light.{06}{07}
+* Winning Conditions{08}
+ - Total destruction of the enemy{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Genocide{06}{07}
+Having returned to the castle, all present were given a new imperial command to capture Salrath. More and more the continent became unified.{06}{07}
+The first target is Salrath. There is little military force in this country intimate with Kalxath.{06}{07}
+After a march to Salrath, Kalxath reinforcements attacked before you were prepared. It becamer necessary to strike back.{06}{07}
+* Winning Conditions{08}
+ - Total destruction of the enemy{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Enemy escapes to upper-right of map{06}{07}
+{END}
+
+Scenario {03}
+The Defense Camp's Iron Wall{06}{07}
+{02} and company succeeded at gaining total control over Salrath country.{06}{07}
+The worry about Kalxath's interferenc ein the capture had passed.{06}{07}
+However, while gaining control of Salrath, it was necessary to ignore whomever sent reinforcements as to avoid putting imperial troops in danger.{06}{07}
+{02} and his troops went to search a nearby village for them.{06}{07}
+Once there an old swordsman, Aaron, took up a defensive position in one of the strongholds to obstruct the imperial's progress.{06}{07}
+* Winning Conditions{08}
+ - Defeat of Aaron{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+The Fall of Kalxath{06}{07}
+Now that they have finally arrived at Kalxath Castle, {02} and the Imperial General's party have begun their full-scale surface assault.{06}{07}
+The forces of the Decendants of Light have taken a defensive position within the castle.
+{02} is now ont he verge of dealing the final blow to the Decendants of Light.{06}{07}
+However, while this battle is being fought to obtain the final key to release Alhazad, it seems the true objective remains shrouded in mystery...{06}{07}
+* Winning Conditions{08}
+ - Total annihilation of all targets except Liana{08}
+ - Joining Eggbert and Liana{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Deat or escape of Liana{06}{07}
+{END}
+
+Scenario {03}
+Triangle{06}{07}
+The forbidden land of Velzeria.
+It is a land which seals the demon tribe of the ancient past who tried ot cover the world in darkness.{06}{07}
+Beneath the ground there lies a temple of darkness with a great stone state encircled by a dimly lit, eerie altar.{06}{07}
+Near the altar is a great sword with two young maidens standing to each side of it; both resembling Liana.{06}{07}
+A man clad in black now stands before the altar, his lips speaking that the revival of the demon blade is at hand.{06}{07}
+* Winning Conditions{08}
+ - Defeat of B{3A}ser{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Love Sonya{06}{07}
+The prince of darkness, B{3A}ser, has discovered how to release the demon sword, however Eggbert has seen his true intentions.{06}{07}
+Bozel, the empire, and also the decendants of light -- the presence of these forces on the battlefield led to the Empire's rule.{06}{07}
+However, during that battle B{3A}ser reclaimed Alhazad.{06}{07}
+In order to battle against Alhazad, the empire quickly broke the seal on Langrisser and rushed to Velzeria to face B{3A}ser.{06}{07}
+As they drew near B{3A}ser fortress, the Castle Verlzeria, they discovered Rohga's younger sister, Sonya, guarding the gates.{06}{07}
+* Winning Conditions{08}
+ - Persuasion or defeat of Sonya{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Dark Breaker{06}{07}
+Due to the love of her older brother, Sonya's cold heart was mended. Perhaps they would become the new bridge between demons and humans.{06}{07}
+However, for the sake of coexistance between humans and demons, for the sake of the world, it was decreed that B{3A}ser must be defeated.{06}{07}
+The gates of Velzeria Castle were finally opened.{06}{07}
+Once everyone was inside the castle, under SOnya's lead they proceeded on foot to find B{3A}ser.{06}{07}
+* Winning Conditions{08}
+ - Defeat of B{3A}ser{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Scattered Stars Everywhere{06}{07}
+The prince of darkness, B{3A}ser, has collapsed. But the time draws near when darkness again approaches the world.{06}{07}
+However, the decendants of light continued to resist. This prevented the completetion of the continent's unification.{06}{07}
+In order to end the battle with the decendant so flight once and for all, the Empire returned to the Rayguard Capitol from Velzeria.{06}{07}
+However, when they arrived at the harbour, Lester and his forces were already there to launch a surprise attack.{06}{07}
+* Winning Conditions{08}
+ - Defeat of Lester{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+The Old Castle{06}{07}
+The decendants of light have taken the Twin Castle as their new base...
+It's very difficult to attack that castle. It's now called the Country at War's castle.{06}{07}
+It's said that in the past, one king who wielded Langrisser once ruled over this castle with two towers.{06}{07}
+The decents of light have their minds focuse don combat. Cherie has taken position with her soldiers in the interor to defend against intruders.{06}{07}
+* Winning Conditions{08}
+ - Defeat of Sherry{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Decisive Battle{06}{07}
+With Cherie's troops scattered, {02}'s company can now begint o infiltrate the Twin Castle.{06}{07}
+However, there are two entrances and it is unknown which Jessica is guarding.{06}{07}
+After some thought, {02} and company split into two groups ot advance the floor where Jessica awaits.{06}{07}
+However, divding forces was one of the traps of this castle.{06}{07}
+Now, missions, beliefs, and people's emotions crodd ont he battlefield. With an end in sight, soon a new era will begin...{06}{07}
+* Winning Conditions{08}
+ - Defeat of Jessica{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+The Great River of Regret{06}{07}
+The demon prince, Boser, has used the empire to break the seal on the demon sword. However, Eggbert had forseen his plans.{06}{07}
+Boser, the empire, and the decendants of light. The victor of these three forces' battle will rule the empire.{06}{07}
+Boser has recieved a severe wound and the forces of light are on the verge of annihilation.
+The empire had begun its march to deliver the final blow to the decendants of light.{06}{07}
+The forces of light are currently encamped in a fortress facing the fiver.
+There Lester leads one naval detachment in wait.{06}{07}
+* Winning Conditions{08}
+ - Defeat of Lester{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Light Falls...{06}{07}
+The Rayguard Empire's toops have finally cornered the army of light.
+However, they had already prepared a stronghold.{06}{07}
+They built a fortress on the sea that while small, appears ot be quite strong.{06}{07}
+As friend and foe gather at the beach, it appears the battle may finally conclude.{06}{07}
+* Winning Conditions{08}
+ - Defeat of Jessica{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Dark Power{06}{07}
+{02} and the others have defeated the decendants of light. A recovery is impossible.
+The only remaining enemy is B{3A}ser and his army of darkness.{06}{07}
+During the first with the army of light, Sonya was assigned to attack the four generald of the Rayguard empire with the army of darkness.{06}{07}
+Although Bernhardt was fine and the castle gate remained defended, the empire could not hide the fact the monster army's endless onslaught was tiring them out.{06}{07}
+The party could not wast even a second in rest and hurried to Rayguard castle...{06}{07}
+* Winning Conditions{08}
+ - Defeat or persuasion of Sonya{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Death of Bernhardt{06}{07}
+{END}
+
+Scenario {03}
+Dangerous Castle Velzeria{06}{07}
+An evil castle on the Velzeria continent. The Blazing and Ice Dragon Corps have already swept out a large chunk of the demon army. There is little left to slow their progress.{06}{07}
+The towering fortress casts a dark shadow over the cursed land against the gray background of a sky.{06}{07}
+In front of it waited the young girl, Sonya, who had still not abandoned her hatred for humanity.{06}{07}
+* Winning Conditions{08}
+ - Total destruction of enemy{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Sad Assault{06}{07}
+The girl Sonya, born by a human and a demon, fell in a fight with her brother when even he couldn't open her closed heart.{06}{07}
+Everyone stood in front of the evil Velzeria Castle as it's gate slowly swung open.{06}{07}
+For his friend, Rohga whose quiet heart is filled with sadness, {02} swears to bring down B{3A}ser.{06}{07}
+* Winning Conditions{08}
+ - Crush B{3A}ser{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Military Rule{06}{07}
+After obtaining Langrisser, the sword said to grant infinite strength, {02} decided to unify the continent through power.{06}{07}
+With the army of light keeping the enemies' hand tied, the party devised a plan to attack Rayguard castle.{06}{07}
+But the imperial army had already mobilized it's four great generals to create an unpierceable castle defense.{06}{07}
+* Winning Conditions{08}
+ - Total destruction of enemy{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Emperor Bernhardt{06}{07}
+{02} and the others have defeated the four generals and penetrated Rayguard Castle. They aim straight for the throne.{06}{07}
+The man on the throne posessed the piercing eyes of a trained fighter but posessing a king's dignity.{06}{07}
+He had a charismatic nature that attracted all who saw him.
+He was the evil emperor, Bernhardt, who for a generation had tried to rule the country.{06}{07}
+The curtains have opened for the fight against Emperor Bernhardt.{06}{07}
+* Winning Conditions{08}
+ - Crush Eggbert and Bernhardt{06}{07}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Genocide{06}{07}
+Thanks to B{3A}ser, it has been learned that Liana is necessary to break the seal on the dark sword Alhazad.{06}{07}
+Riana lies hidden with the army of light in Kalxath Castle.
+{02} and the others now march through Salrath country which lies between them and Kalxath territory.{06}{07}
+If Kalxath learns of the march on their territory they will have time to prepare. No messenger can be allowed to leave Salrath.{06}{07}
+The party has no choice but to crush Salrath.{06}{07}
+* Winning Conditions{08}
+ - Crush Scorr and Loren{06}{07}
+* Losing Condition{08}
+ - Death of {02}{08}
+ - Scott and Loren escape to the upper part of the map{06}{07}
+{END}
+
+Scenario {03}
+Kalxath Surrender{06}{07}
+Having broken through Salrath, they now close in on Kalxath Castle.
+The element of surprise is theirs.{06}{07}
+The only girl capable of breaking Alhazad's seal. Liana, lies within the castle.{06}{07}
+Another blow must be dealt to the army of light and Liana captured to begin the final strategy.{06}{07}
+* Winning Conditions{08}
+ - Death of everyone but Liana{08}
+ - Sonya joins Liana{06}{07}
+* Losing Condition{08}
+ - Death of {02}{08}
+ - Death or escape of Liana{06}{07}
+{END}
+
+Scenario {03}
+The Real Dark Blade Alhazad{06}{07}
+The catalysts for unsealing Alhazad, the maiden of light, Riana, and the Dark Rod, have been gathered.{06}{07}
+Now in Velzeria's underground, the unsealing ceremony is underway in a secret underground temple.{06}{07}
+The revival of the dark blade was at hand.
+However, some unwanted guests arrived at the last moment.{06}{07}
+* Winning Conditions{08}
+ - Crush Bernhardt{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Messenger of Darkness{06}{07}
+The seal of the dark blade was broken and the power to control the demons was unleashed.{06}{07}
+Though the imperials managed to get inside during the ceremony to unseal the dark sword, they were unable to take it from {02}.{06}{07}
+{02} and the other's decided to ruin the Imperial army as it left Velzeria and began their pursuit.{06}{07}
+* Winning Conditions{08}
+ - Defeat Vargas in 20 turns{06}{07}
+* Losing Condition{08}
+ - Death of {02}{08}
+ - Turn Over{06}{07}
+{END}
+
+Scenario {03}
+Scattered Waves{06}{07}
+Erwin defeated the brave general Vargas who secured Emperor Bernhardt's escape. The chase continues.{06}{07}
+At least it was decided to use a boat to continue the chase of the imperial troops.{06}{07}
+Now, while trying to cross boats a naval battle has begun.{06}{07}
+* Winning Condition{08}
+ - Defeat Imelda in 25 turns{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Turn Over{06}{07}
+{END}
+
+Scenario {03}
+Twin Castle{06}{07}
+General Vargas of the Blazing Dragon Corps and Imelda of the Ice Dragon Corps of the 4 imperial generals were defeated.{06}{07}
+Thanks to the magic of Eggbert, the emperor had escaped from the crisis and found defense wthin the walls of Twin Castle.{06}{07}
+It's said that in the past, one king who wielded Langrisser once ruled over this castle with two towers.{06}{07}
+Now, {02} and the others have engaged Leon who has blockaded the castle gates.{06}{07}
+* Winning Condition{08}
+ - Defeat of all Enemies{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+The Empire's Last Day{06}{07}
+The highest part of Twin Castle is the bridge connecting the two towers.
+It is a narrow stretch that's hard to attack and easy to defend.
+It was this point chosen by Kaiser Bernhardt.{06}{07}
+Kaiser Bernhardt dispatched his elite soldiers to form a wall of defense along with Eggbert and the Dark Dragon Sorcery Corps.{06}{07}
+The last battle with the empire begins now.{06}{07}
+* Winning Condition{08}
+ - Crush Bernhardt{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+To Legendary Darkness{06}{07}
+The fort stood alone on a solitary island int he sea.{06}{07}
+Within, the decendants of light were hidden like children waiting for a storm to pass.{06}{07}
+Waiting for the end, they prepared to make one last stand against evil.{06}{07}
+However, they were soon found by {02} who was to be their enemy.{06}{07}
+The time for the final battle of light and dark draws near.{06}{07}
+* Winning Condition{08}
+ - Defeat of all Enemies{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+The Way of the Supreme Ruler{06}{07}
+Not choosing the light nor the empire nor the darness.
+Surely that must be the way of the supreme ruler.{06}{07}
+Using all his strength, {02} has begun to chase down the fleeingimperials.{06}{07}
+Marching to protect emperor Bernhardt who had sustained a serious wound, the imperial forces encountered {02}.{06}{07}
+The first steps to becoming the supreme ruler would begin here.{06}{07}
+* Winning Conditions{08}
+ - Defeat generals Vargas and Imelda withing 20 turns{06}{07}
+* Losing Conditions{08}
+ - Death of {02}{08}
+ - Turn Over{06}{07}
+{END}
+
+Scenario {03}
+Blaze of the Blue Dragon{06}{07}
+The imperial forces have taken refuge in Velzeria castle; the caste of the Dark Prince Boser.{06}{07}
+Having turned back the Blazing Dragon Army of General Vargas and the Ice Dragon Navy of Gerneral Imelda, {02} and company have arrived at Velzeria castle.{06}{07}
+Ahead of them are the castle gates, but they are blocked by General Leon and the Blue Dragon Knights.{06}{07}
+* Winning Condition{08}
+ - Defeat of all Enemies{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Emperor Bernhardt{06}{07}
+Leon who was guarding the castle gate has finally been defeated. Now {02} has earnestly begun the raid on Velzeria castle. His aim is the floor on which the emperor is on.{06}{07}
+At the throne, much like in his own castle, emperor Bernhardt waits thinking of the future of his empire.{06}{07}
+His expression shows regret for the war he had begun.{06}{07}
+* Winning Condition{08}
+ - Defeat of Bernhardt{08}
+* Losing Condition{08}
+ - Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Ruins of the Gods{06}{07}
+The Emperor of the Rayguard Empire, Bernhardt, which once boasted great power, was killed by the cave-in.{06}{07}
+Having gotten rid of the man in power, {02}'s next objective was to bury the army of light.{06}{07}
+They encountered the army of light in a ravine, a place known as "The Ruins of the Gods".{06}{07}
+The goddess of light, Lushiris, instructed Jessica to defend the lang of the gods. Sherry and company were left behind to disable the power of the ruins.{06}{07}
+* Winning Condition{08}
+ -Total destruction of the enemy{08}
+ -Reactivate the ruins{06}{07}
+* Losing Condition{08}
+ -Death of {02}{06}{07}
+{END}
+
+Scenario {03}
+Neo Gloria{06}{07}
+The heavenly land where Lushiris, the goddess of light, dwells.
+It is a sublime place of little variety.{06}{07}
+Jessica has broken the seal on Langrisser so the company can visit the heavens where Lushiris dwells.{06}{07}
+Before the sword's power is lost, {02} must meet with Lushiris, the goddess of light.{06}{07}
+The battle over the sword, Langrisser, has finally spread to the realm of the gods.{06}{07}
+* Winning Condition{08}
+ -Death of Lushiris{08}
+* Losing Condition{08}
+ -Death of {02}{06}{07}
+{END}
+
+Scenario ?1
+Muscular Shrine {06}{07}
+{02} found a hidden corridor in the ruined shrine
+where the Dark Rod was hidden,
+{02} and company decided to explore it... {06}{07}
+Surrounded by mysterious statues of men with vaseline on their body,
+posed as if to show their muscle, the females look around in wonder.. {06}{07}
+A voice comes from one of the statues.. , "You need to beef up if you hope 
+to win!"{06}{07}
+* Winning Condition{08}
+ -Defeat of all enemies{06}{07}
+* Losing Condition{08}
+ -Death of {02}{06}{07}
+{END}
+
+Scenario ?2
+Quiz Time!{06}{07}
+The Descendents of Light, on their way
+to find Langrisser, stumble upon a hidden
+entrance on the other side of a suspension
+bridge, so they decide to investigate. {06}{07}
+Inside, they find the game staff armed with troops
+and a quiz waiting for them... {06}{07}
+Answering all questions wins you a special item, attacking Akitan before 
+all questions answered ruins your chances of winning it, but there is also 
+other prizes to win! Good Luck!{06}{07}
+And now it's time for the quiz!{06}{07}
+* Winning Conditions{08}
+  -Defeat of Uki{08}
+* Losing Conditions{08}
+  -Death of {02} {06}{07}
+{END}
+
+Scenario ?3
+I've Seen You Somewhere{06}{07}
+The Imperials, on their way to find Langrisser,
+stumble upon a hidden entrance on the other side
+of a suspension bridge, so they decide to
+investigate. {06}{07}
+Inside, they find a Witch protected by
+some fiery companions.{06}{07}
+Killing one of the top 3 commander's or attacking the Witch will transform 
+her into a Saint with Odin's Buckler and a Longbow, Odin's buckler allows 
+a character with the Summon command to Summon Odin's trusty steed, Sleipnir, 
+to wreak havoc upon your foes. Good luck and have fun!{06}{07}
+* Winning Conditions{08}
+  -Defeat of the witch{08}
+* Losing Conditions{08}
+  -Death of {02} {06}{07}
+{END}
+
+{END}
+
+{END}
+
+{END}
+
+{END}
+
+Scenario {03}{08}
+Far Away, to the Legend{06}{07}
+The castle rose slowly. But the vicous waves from it sent chills down all who saw.{06}{07}
+Inside of Valzeria Castle resides pure darkness, blocking out any light that would dare to penetrate its walls.{06}{07}
+Inside awaited B{3A}ser, the dark prince: grasping and awaiting the end.{06}{07}
+Now, the last battle between humanity and the demon tribe is about to begin...{06}{07}
+* Winning Conditions{08}
+ - Defeat of B{3A}ser{08}
+* Losing Conditions{08}
+ - Death of {02}{06}{07}
+{END}
