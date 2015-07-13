@@ -1,0 +1,39 @@
+
+          Scenario-01
+          "Prologue"<clsr>
+  The continent of El Sallia is
+a land plagued that has been
+plagued with frequent wars.
+  A young man, Erwin, has been
+traveling the countryside with
+Hein, an apprentice magician
+whom he met on his journeys.<clsr>
+  After entering the lands near
+Hein's hometown, the travelers
+decided to stay at the inn.
+  Village life was quiet and
+peaceful. Amidst the friendly
+townspeople, the travelers soon
+forgot about the war that had
+begun to take place.<clsr>
+  Days later, as Erwin was
+beginning to enjoy life in the
+village, Hein burst into the
+inn with a pale face.
+  The Imperial Knights of the
+Rayguard Empire had invaded
+the village in search of a girl
+named Liana.<clsr>
+  Why would they attack such
+a peaceful village?
+  Erwin leaves the inn with
+Hein to attempt to rescue
+Liana.<clsr>
+Winning Condition
+- Defeat of Baldo
+
+Losing Conditions
+- Death of Erwin
+- Baldo reaches bottom of map<clsr>
+<>
+

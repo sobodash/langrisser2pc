@@ -1,0 +1,1 @@
+php langpcbuild.php english

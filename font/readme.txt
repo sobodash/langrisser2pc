@@ -1,0 +1,1 @@
+Install this font in your Windows Font folder.

@@ -1,0 +1,293 @@
+Load which save data?<>
+
+Save your game?<>
+
+Yes<>
+
+No<>
+
+Will you still buy it?<>
+
+Your inventory is full.<>
+
+Throw something out.<>
+
+Which item will you discard?<>
+
+<str2> will be thrown out.<>
+
+<str2> was thrown out.<>
+
+Kills<>
+
+Retreats<>
+
+is asleep.<>
+
+Can't summon.<>
+
+<str2><>
+
+ <>
+
+Magic Arrow<>
+
+Blast<>
+
+Thunder<>
+
+Fireball<>
+
+Meteor<>
+
+Blizzard<>
+
+Tornado<>
+
+Turn Undead<>
+
+Earthquake<>
+
+Heal 1<>
+
+Heal 2<>
+
+Force Heal 1<>
+
+Force Heal 2<>
+
+Sleep<>
+
+Mute<>
+
+Protection 1<>
+
+Protection 2<>
+
+Attack 1<>
+
+Attack 2<>
+
+Zone<>
+
+Teleport<>
+
+Resist<>
+
+Charm<>
+
+Quick<>
+
+Again<>
+
+Decrease<>
+
+Stone<>
+
+Valkyrie<>
+
+White Dragon<>
+
+Salamander<>
+
+Iron Golem<>
+
+Demon Lord<>
+
+Not enough MP!<>
+
+You obtained a <str2>!<>
+
+<str2> equipped the <str2>!<>
+
+GAME OVER<>
+
+<str2><>
+
+Level up!<>
+
+AT<>
+
+DF<>
+
+MP<>
+
++1<>
+
++2<>
+
+ was learned.<>
+
+<str2> can be hired.<>
+
+<str1> may change class.<>
+
+Class Change<>
+
+<str1> <str1> unit.<>
+
+Troops<>
+
+Magic & Summon<>
+
+<str2> equipment<>
+
+Weapon<>
+
+Misc.<>
+
+Ally's<>
+
+ move ended.<>
+
+Enemy's<>
+
+NPC's<>
+
+This scenario has a<>
+
+
+will be my new class.
+Is this all right?<>
+
+Item List<>
+
+Sell List<>
+
+<str2> can't be equipped.<>
+
+Gold<>
+
+You don't have enough money.<>
+
+Your inventory is full.<>
+
+Items Carried<>
+
+That item cannot be equipped.<>
+
+You don't possess any more items
+to sell.<>
+
+<str2> was purchased.<>
+
+<str2> was sold.<>
+
+<str2> cannot equip this.<>
+
+The scenario setup is not complete!<>
+
+Saved.<>
+
+forced arrangement.<>
+
+Erwin has not been positioned.<>
+
+Unknown string 000<str2>
+Unknown string 001<>
+
+White Dragon<>
+
+Salamander<>
+
+Iron Golem<>
+
+Demon Lord<>
+
+Sleipnir<>
+
+Fenrir<>
+
+Aniki<>
+
+Enemy Aniki<>
+
+cannot use.<>
+
+Is this okay?<>
+
+Press any button.<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+<>
+
+Scenario
+<clsr>
+Turn<>
+
+Total
+<clsr>
+Turn<>
+
+No save slots were found.<>
+
+Error in reading save slots.<>
+
+No save data found.<>
+
+Failed to save data.<>
+
+Failed to load data.<>
+
+Failed to save data.<>
+
+Failed to load data.<>
+
+Format completed.<>
+
+Format ended.<>
+
+Failed to format<>
+
+The slots were not formatted.<>
+
+The save slots are not formatted.
+Will you format them now?<>
+
+Save in which slot?<>
+
+Failed<>
+
+Saving...<>
+
+Loading...<>
+
+Checking save slots<>
+
+Unknown string 002<>
+
+Unknown string 003<>
+
